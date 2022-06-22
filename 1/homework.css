@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-banner {
+    background-image:url(https://img.freepik.com/free-vector/music-background_8071-225.jpg?w=1060);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    text-align: center;
+    padding: 2%;
+}
+
+.page-title {
+    text-align: center;
+}
+.page-title1 {
+    text-align: center;
+}
+.page-links {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.page-links a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #ccc;
+    color: #000;
+    margin: 0 10px;
+    display: inline-block;
+
+}
+.page-title2 {
+    text-align: center;
+}
+
+.liste {
+    text-align: center;
+    display: inline-block
+}
+section {
+    display: inline-block;
+    width: 100%;
+}
+
+.p1 {
+    background-color: #ccc;
+    display: inline-block;
+    padding: 5px;
+    font: weight 10px;
+    height: 500px;
+    width: 100%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.gitar-png {
+    width: 100px;
+    background: none;
+    background-color: aliceblue;
+}
